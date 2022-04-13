@@ -1,0 +1,53 @@
+<!--Estilo para o conteúdo do nosso site
+
+html,body{
+    height: 200%;
+}
+
+.artigo{
+    width: 100%;
+    background-color: #878484;
+    text-align: center;
+
+}
+.artigo h2{
+    color:rgb(56, 44, 44);
+    margin-top: 20px;
+    font-size: 40px;
+    font-family: 'tahoma';
+    font-style: normal;
+    font-weight: 100;  /*normal, bold,900*/
+    /*font-variant: small-caps;*/
+}
+.artigo h1{
+    color:rgb(56, 44, 44);
+    margin-top: 10px;
+    font-size: 20px;
+    font-family: 'tahoma';
+    font-style: italic;
+    font-weight: 500;
+}
+.artigo p{
+    color: #806060;
+    text-align: center;
+    font-size: 17px;
+    font-family: tahoma;
+    font-style: italic;
+    font-weight: bold;
+    line-height: 30px;
+    margin-top: 15px;
+}
+.artigo p{
+    color: ;
+    text-align: center;
+    font-size: 17px;
+    font-family: tahoma;
+    font-style: italic;
+    font-weight: bold;
+    line-height: 30px;
+    margin-top: 15px;
+}
+.artigo sub{
+    color: red;
+    text-align: center;
+}-->
